@@ -1,2 +1,3 @@
 # hello-world-1
-my first reposiory
+my first reposioryi go to a university
+
